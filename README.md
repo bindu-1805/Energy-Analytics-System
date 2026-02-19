@@ -3,7 +3,7 @@ The Smart Energy Analytics Platform is designed to monitor, analyze and optimize
 
 ## Entities and relationships
 Given below is a Conceptual Data Model representing the core entities and relationships. </br>
-![Conceptual Data Model](<img width="696" height="272" alt="Conceptual_Data_Model" src="https://github.com/user-attachments/assets/f30ac8ab-33af-49e1-9bf3-3c58dabb7976"/>)
+![Conceptual Data Model](https://github.com/user-attachments/assets/f30ac8ab-33af-49e1-9bf3-3c58dabb7976)
 
 ## Logical and Physical Data Modelling
 The model is normalised up to the 3rd Normal Form (3NF) to avoid redundancy, ensure data integrity, and prepare for efficient storage. 
@@ -28,10 +28,22 @@ Datasets were simulated using Python.
 ## PowerBI report
 This project is structured into three dashboards, each targeting a different decision-making layer:
 <ol>
-    <li>**Executive Revenue Overview** - This dashboard provides a high-level financial and performance summary for leadership and strategic decision-makers.</li>
-    <li>**Operational & Billing Analytics** - This dashboard focuses on billing efficiency, payment performance, and operational health.</li>
-    <li>**Customer Intelligence** - This dashboard provides customer-level performance insights and segmentation.</li>
+    <li>Executive Revenue Overview - This dashboard provides a high-level financial and performance summary for leadership and strategic decision-makers.</li>
+    <li>Operational & Billing Analytics - This dashboard focuses on billing efficiency, payment performance, and operational health.</li>
+    <li>Customer Intelligence- This dashboard provides customer-level performance insights and segmentation.</li>
 </ol>
+
+## Preview
+Below is the preview of the PowerBI report.
+1. Executive Revenue Overview </br>
+![Dashboard 1](https://github.com/user-attachments/assets/2959fc23-5359-4b92-90fc-b3d2575c67ab) 
+2. Operational & Billing Analytics </br>
+![Dashboard 2](https://github.com/user-attachments/assets/4eb0ccab-7e84-439b-a6c6-71704711f748) 
+3. Customer Intelligence </br>
+![Dashboard 3](https://github.com/user-attachments/assets/eecd76aa-e38c-47f2-a3be-2d87657b5119)
+
+
+
 
 
 
