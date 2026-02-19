@@ -1,10 +1,6 @@
 # Energy-Analytics-System
 The Smart Energy Analytics Platform is designed to monitor, analyze and optimize energy consumption in real-time for residential and commercial environments. This PowerBI report provides actionable insights to help users reduce energy waste, improve efficiency and make data-driven decisions.
 
-## Entities and relationships
-Given below is a Conceptual Data Model representing the core entities and relationships. </br>
-![Conceptual Data Model](https://github.com/user-attachments/assets/f30ac8ab-33af-49e1-9bf3-3c58dabb7976)
-
 ## Logical and Physical Data Modelling
 The model is normalised up to the 3rd Normal Form (3NF) to avoid redundancy, ensure data integrity, and prepare for efficient storage. 
 
